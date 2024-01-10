@@ -4,5 +4,6 @@
   "properties": {
     "user_type": "all",
     "component": "all"
-  }
+  },
+  "file": "dist.tar.gz"
 }
